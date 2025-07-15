@@ -24,19 +24,19 @@ Embracing new freedom to create
   
 #### 👷 What I'm currently working on
 
+- [sevi418/qx](https://github.com/sevi418/qx) -  (today)
 - [sevi418/Hugo-theme-bear](https://github.com/sevi418/Hugo-theme-bear) -  (3 months ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (3 months ago)
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue &amp; Nuxt. (3 months ago)
 - [sevi418/devSite](https://github.com/sevi418/devSite) -  (3 months ago)
-- [sevi418/calendar-heatmap](https://github.com/sevi418/calendar-heatmap) -  (5 months ago)
   <br>
 #### 🌱 My latest projects
 
+- [sevi418/qx](https://github.com/sevi418/qx) - 
 - [sevi418/calendar-heatmap](https://github.com/sevi418/calendar-heatmap) - 
 - [sevi418/fish-french-greeting](https://github.com/sevi418/fish-french-greeting) - Greets user with French word of the day from Transparent Language API and random kaomoji.
 - [sevi418/meow-one-page-resume](https://github.com/sevi418/meow-one-page-resume) - A cat-powered one-page resume template 🐱
 - [sevi418/miniflux-js](https://github.com/sevi418/miniflux-js) - Unofficial JavaScript SDK for Miniflux.
-- [sevi418/games101](https://github.com/sevi418/games101) - 
   
 
 #### 🔨 My recent Pull Requests
@@ -52,7 +52,7 @@ Embracing new freedom to create
 #### 🔭 Latest releases I've contributed to
 
 
-- [miniflux/v2](https://github.com/miniflux/v2) ([2.2.10](https://github.com/miniflux/v2/releases/tag/2.2.10), 2 weeks ago) - Minimalist and opinionated feed reader
+- [miniflux/v2](https://github.com/miniflux/v2) ([2.2.10](https://github.com/miniflux/v2/releases/tag/2.2.10), 3 weeks ago) - Minimalist and opinionated feed reader
 - [sevi418/miniflux-js](https://github.com/sevi418/miniflux-js) ([v0.0.6](https://github.com/sevi418/miniflux-js/releases/tag/v0.0.6), 7 months ago) - Unofficial JavaScript SDK for Miniflux.
 
 </details>
