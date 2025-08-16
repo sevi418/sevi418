@@ -46,13 +46,12 @@ Embracing new freedom to create
 - [Fix bun CLI](https://github.com/unovue/inspira-ui/pull/173) on [unovue/inspira-ui](https://github.com/unovue/inspira-ui) (4 months ago)
 - [Update about.md](https://github.com/bambooom/bambooom.github.io/pull/28) on [bambooom/bambooom.github.io](https://github.com/bambooom/bambooom.github.io) (7 months ago)
 - [Update friends.md](https://github.com/LitoMore/litomore.me/pull/1) on [LitoMore/litomore.me](https://github.com/LitoMore/litomore.me) (7 months ago)
-- [Update friends.ts](https://github.com/kwaa/blog/pull/4) on [kwaa/blog](https://github.com/kwaa/blog) (7 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
 
-- [miniflux/v2](https://github.com/miniflux/v2) ([2.2.11](https://github.com/miniflux/v2/releases/tag/2.2.11), 2 weeks ago) - Minimalist and opinionated feed reader
+- [miniflux/v2](https://github.com/miniflux/v2) ([2.2.11](https://github.com/miniflux/v2/releases/tag/2.2.11), 3 weeks ago) - Minimalist and opinionated feed reader
 - [sevi418/miniflux-js](https://github.com/sevi418/miniflux-js) ([v0.0.6](https://github.com/sevi418/miniflux-js/releases/tag/v0.0.6), 8 months ago) - Unofficial JavaScript SDK for Miniflux.
 
 </details>
