@@ -28,7 +28,7 @@ Embracing new freedom to create
 - [sevi418/Hugo-theme-bear](https://github.com/sevi418/Hugo-theme-bear) -  (4 months ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (4 months ago)
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue &amp; Nuxt. (4 months ago)
-- [sevi418/devSite](https://github.com/sevi418/devSite) -  (4 months ago)
+- [sevi418/devSite](https://github.com/sevi418/devSite) -  (5 months ago)
   <br>
 #### 🌱 My latest projects
 
@@ -51,7 +51,7 @@ Embracing new freedom to create
 #### 🔭 Latest releases I've contributed to
 
 
-- [miniflux/v2](https://github.com/miniflux/v2) ([2.2.12](https://github.com/miniflux/v2/releases/tag/2.2.12), 4 days ago) - Minimalist and opinionated feed reader
+- [miniflux/v2](https://github.com/miniflux/v2) ([2.2.12](https://github.com/miniflux/v2/releases/tag/2.2.12), 5 days ago) - Minimalist and opinionated feed reader
 - [sevi418/miniflux-js](https://github.com/sevi418/miniflux-js) ([v0.0.6](https://github.com/sevi418/miniflux-js/releases/tag/v0.0.6), 8 months ago) - Unofficial JavaScript SDK for Miniflux.
 
 </details>
