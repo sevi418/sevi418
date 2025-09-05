@@ -25,7 +25,7 @@ Embracing new freedom to create
 #### 👷 What I'm currently working on
 
 - [sevi418/qx](https://github.com/sevi418/qx) -  (1 month ago)
-- [sevi418/Hugo-theme-bear](https://github.com/sevi418/Hugo-theme-bear) -  (4 months ago)
+- [sevi418/Hugo-theme-bear](https://github.com/sevi418/Hugo-theme-bear) -  (5 months ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (5 months ago)
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue &amp; Nuxt. (5 months ago)
 - [sevi418/devSite](https://github.com/sevi418/devSite) -  (5 months ago)
@@ -62,7 +62,7 @@ Embracing new freedom to create
   <br/>
 
 
-- [在DuckDuckGo和Google搜索结果中屏蔽CSDN](https://sevic.me/2025-04-08) (4 months ago)
+- [在DuckDuckGo和Google搜索结果中屏蔽CSDN](https://sevic.me/2025-04-08) (5 months ago)
 - [我在看什么 · 2024年3月 - 2025年3月](https://sevic.me/2025-03-22-reading) (5 months ago)
 - [Git使用随记](https://sevic.me/2024-10-28-git) (10 months ago)
 - [为Obsidian添加仿真荧光笔高亮样式](https://sevic.me/2024-10-14-obsidian-highlight) (10 months ago)
