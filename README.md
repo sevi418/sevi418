@@ -45,13 +45,13 @@ Embracing new freedom to create
 - [Fix the `mastodon` extension](https://github.com/raycast/extensions/pull/18407) on [raycast/extensions](https://github.com/raycast/extensions) (5 months ago)
 - [Fix bun CLI](https://github.com/unovue/inspira-ui/pull/173) on [unovue/inspira-ui](https://github.com/unovue/inspira-ui) (5 months ago)
 - [Update about.md](https://github.com/bambooom/bambooom.github.io/pull/28) on [bambooom/bambooom.github.io](https://github.com/bambooom/bambooom.github.io) (8 months ago)
-- [Update friends.md](https://github.com/LitoMore/litomore.me/pull/1) on [LitoMore/litomore.me](https://github.com/LitoMore/litomore.me) (8 months ago)
+- [Update friends.md](https://github.com/LitoMore/litomore.me/pull/1) on [LitoMore/litomore.me](https://github.com/LitoMore/litomore.me) (9 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
 
-- [miniflux/v2](https://github.com/miniflux/v2) ([2.2.13](https://github.com/miniflux/v2/releases/tag/2.2.13), 2 days ago) - Minimalist and opinionated feed reader
+- [miniflux/v2](https://github.com/miniflux/v2) ([2.2.13](https://github.com/miniflux/v2/releases/tag/2.2.13), 3 days ago) - Minimalist and opinionated feed reader
 - [sevi418/miniflux-js](https://github.com/sevi418/miniflux-js) ([v0.0.6](https://github.com/sevi418/miniflux-js/releases/tag/v0.0.6), 9 months ago) - Unofficial JavaScript SDK for Miniflux.
 
 </details>
