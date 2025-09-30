@@ -27,7 +27,7 @@ Embracing new freedom to create
 - [sevi418/qx](https://github.com/sevi418/qx) -  (2 months ago)
 - [sevi418/Hugo-theme-bear](https://github.com/sevi418/Hugo-theme-bear) -  (5 months ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (5 months ago)
-- [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue &amp; Nuxt. (5 months ago)
+- [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue &amp; Nuxt. (6 months ago)
 - [sevi418/devSite](https://github.com/sevi418/devSite) -  (6 months ago)
   <br>
 #### 🌱 My latest projects
@@ -43,7 +43,7 @@ Embracing new freedom to create
 
 
 - [Fix the `mastodon` extension](https://github.com/raycast/extensions/pull/18407) on [raycast/extensions](https://github.com/raycast/extensions) (5 months ago)
-- [Fix bun CLI](https://github.com/unovue/inspira-ui/pull/173) on [unovue/inspira-ui](https://github.com/unovue/inspira-ui) (5 months ago)
+- [Fix bun CLI](https://github.com/unovue/inspira-ui/pull/173) on [unovue/inspira-ui](https://github.com/unovue/inspira-ui) (6 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
