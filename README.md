@@ -42,14 +42,14 @@ Embracing new freedom to create
 #### 🔨 My recent Pull Requests
 
 
-- [Fix the `mastodon` extension](https://github.com/raycast/extensions/pull/18407) on [raycast/extensions](https://github.com/raycast/extensions) (5 months ago)
+- [Fix the `mastodon` extension](https://github.com/raycast/extensions/pull/18407) on [raycast/extensions](https://github.com/raycast/extensions) (6 months ago)
 - [Fix bun CLI](https://github.com/unovue/inspira-ui/pull/173) on [unovue/inspira-ui](https://github.com/unovue/inspira-ui) (6 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
 
-- [miniflux/v2](https://github.com/miniflux/v2) ([2.2.13](https://github.com/miniflux/v2/releases/tag/2.2.13), 1 week ago) - Minimalist and opinionated feed reader
+- [miniflux/v2](https://github.com/miniflux/v2) ([2.2.13](https://github.com/miniflux/v2/releases/tag/2.2.13), 2 weeks ago) - Minimalist and opinionated feed reader
 - [sevi418/miniflux-js](https://github.com/sevi418/miniflux-js) ([v0.0.6](https://github.com/sevi418/miniflux-js/releases/tag/v0.0.6), 9 months ago) - Unofficial JavaScript SDK for Miniflux.
 
 </details>
