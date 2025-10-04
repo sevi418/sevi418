@@ -26,7 +26,7 @@ Embracing new freedom to create
 
 - [sevi418/qx](https://github.com/sevi418/qx) -  (2 months ago)
 - [sevi418/Hugo-theme-bear](https://github.com/sevi418/Hugo-theme-bear) -  (5 months ago)
-- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (5 months ago)
+- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (6 months ago)
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue &amp; Nuxt. (6 months ago)
 - [sevi418/devSite](https://github.com/sevi418/devSite) -  (6 months ago)
   <br>
