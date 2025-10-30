@@ -27,7 +27,7 @@ Embracing new freedom to create
 - [sevi418/qx](https://github.com/sevi418/qx) -  (3 months ago)
 - [sevi418/Hugo-theme-bear](https://github.com/sevi418/Hugo-theme-bear) -  (6 months ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (6 months ago)
-- [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue &amp; Nuxt. (6 months ago)
+- [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue &amp; Nuxt. (7 months ago)
 - [sevi418/devSite](https://github.com/sevi418/devSite) -  (7 months ago)
   <br>
 #### 🌱 My latest projects
@@ -43,13 +43,12 @@ Embracing new freedom to create
 
 
 - [Fix the `mastodon` extension](https://github.com/raycast/extensions/pull/18407) on [raycast/extensions](https://github.com/raycast/extensions) (6 months ago)
-- [Fix bun CLI](https://github.com/unovue/inspira-ui/pull/173) on [unovue/inspira-ui](https://github.com/unovue/inspira-ui) (6 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
 
-- [miniflux/v2](https://github.com/miniflux/v2) ([2.2.14](https://github.com/miniflux/v2/releases/tag/2.2.14), 6 days ago) - Minimalist and opinionated feed reader
+- [miniflux/v2](https://github.com/miniflux/v2) ([2.2.14](https://github.com/miniflux/v2/releases/tag/2.2.14), 1 week ago) - Minimalist and opinionated feed reader
 - [sevi418/miniflux-js](https://github.com/sevi418/miniflux-js) ([v0.0.6](https://github.com/sevi418/miniflux-js/releases/tag/v0.0.6), 10 months ago) - Unofficial JavaScript SDK for Miniflux.
 
 </details>
