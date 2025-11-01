@@ -42,7 +42,7 @@ Embracing new freedom to create
 #### 🔨 My recent Pull Requests
 
 
-- [Fix the `mastodon` extension](https://github.com/raycast/extensions/pull/18407) on [raycast/extensions](https://github.com/raycast/extensions) (6 months ago)
+- [Fix the `mastodon` extension](https://github.com/raycast/extensions/pull/18407) on [raycast/extensions](https://github.com/raycast/extensions) (7 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
