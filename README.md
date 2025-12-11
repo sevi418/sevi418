@@ -47,7 +47,7 @@ Embracing new freedom to create
 #### 🔭 Latest releases I've contributed to
 
 
-- [miniflux/v2](https://github.com/miniflux/v2) ([2.2.15](https://github.com/miniflux/v2/releases/tag/2.2.15), today) - Minimalist and opinionated feed reader
+- [miniflux/v2](https://github.com/miniflux/v2) ([2.2.15](https://github.com/miniflux/v2/releases/tag/2.2.15), 1 day ago) - Minimalist and opinionated feed reader
 - [sevi418/miniflux-js](https://github.com/sevi418/miniflux-js) ([v0.0.6](https://github.com/sevi418/miniflux-js/releases/tag/v0.0.6), 1 year ago) - Unofficial JavaScript SDK for Miniflux.
 
 </details>
