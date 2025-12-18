@@ -47,7 +47,6 @@ Embracing new freedom to create
 #### 🔭 Latest releases I've contributed to
 
 
-- [miniflux/v2](https://github.com/miniflux/v2) ([2.2.15](https://github.com/miniflux/v2/releases/tag/2.2.15), 1 week ago) - Minimalist and opinionated feed reader
 
 </details>
 
