@@ -26,10 +26,11 @@ Embracing new freedom to create
 
 - [sevi418/qx](https://github.com/sevi418/qx) -  (5 months ago)
 - [sevi418/Hugo-theme-bear](https://github.com/sevi418/Hugo-theme-bear) -  (8 months ago)
-- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (8 months ago)
+- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (9 months ago)
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue &amp; Nuxt. (9 months ago)
 - [sevi418/devSite](https://github.com/sevi418/devSite) -  (9 months ago)
   <br>
+  
 #### 🌱 My latest projects
 
 - [sevi418/qx](https://github.com/sevi418/qx) - 
@@ -38,11 +39,6 @@ Embracing new freedom to create
 - [sevi418/meow-one-page-resume](https://github.com/sevi418/meow-one-page-resume) - A cat-powered one-page resume template 🐱
 - [sevi418/miniflux-js](https://github.com/sevi418/miniflux-js) - Unofficial JavaScript SDK for Miniflux.
   
-
-#### 🔨 My recent Pull Requests
-
-
-
 
 #### 🔭 Latest releases I've contributed to
 
