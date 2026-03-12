@@ -25,7 +25,7 @@ Embracing new freedom to create
 #### 👷 What I'm currently working on
 
 - [cosmoart/Freesets](https://github.com/cosmoart/Freesets) - 📋Collection of free resources like icons, images, illustrations, components, libraries and more! (3 weeks ago)
-- [sevi418/qx](https://github.com/sevi418/qx) -  (7 months ago)
+- [sevi418/qx](https://github.com/sevi418/qx) -  (8 months ago)
 - [sevi418/Hugo-theme-bear](https://github.com/sevi418/Hugo-theme-bear) -  (11 months ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (11 months ago)
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue &amp; Nuxt. (11 months ago)
