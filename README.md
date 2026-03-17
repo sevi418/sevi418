@@ -24,7 +24,7 @@ Embracing new freedom to create
   
 #### 👷 What I'm currently working on
 
-- [cosmoart/Freesets](https://github.com/cosmoart/Freesets) - 📋Collection of free resources like icons, images, illustrations, components, libraries and more! (4 weeks ago)
+- [cosmoart/Freesets](https://github.com/cosmoart/Freesets) - 📋Collection of free resources like icons, images, illustrations, components, libraries and more! (1 month ago)
 - [sevi418/qx](https://github.com/sevi418/qx) -  (8 months ago)
 - [sevi418/Hugo-theme-bear](https://github.com/sevi418/Hugo-theme-bear) -  (11 months ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (11 months ago)
@@ -53,7 +53,7 @@ Embracing new freedom to create
 
 
 - [在DuckDuckGo和Google搜索结果中屏蔽CSDN](https://sevic.me/2025-04-08) (11 months ago)
-- [我在看什么 · 2024年3月 - 2025年3月](https://sevic.me/2025-03-22-reading) (11 months ago)
+- [我在看什么 · 2024年3月 - 2025年3月](https://sevic.me/2025-03-22-reading) (1 year ago)
 - [Git使用随记](https://sevic.me/2024-10-28-git) (1 year ago)
 - [为Obsidian添加仿真荧光笔高亮样式](https://sevic.me/2024-10-14-obsidian-highlight) (1 year ago)
 - [使用 Obsidian 三年之后的设置 （外观篇）](https://sevic.me/2024-09-14-obsidian-apperance) (2 years ago)
