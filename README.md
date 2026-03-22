@@ -52,11 +52,11 @@ Embracing new freedom to create
   <br/>
 
 
-- [我在看什么 · 2025年3月 - 2026年3月](https://sevic.me/2026-03-20-reading) (1 day ago)
+- [浅尝即止的设计学习](https://sevic.me/2026-03-21) (1 day ago)
+- [我在看什么 · 2025年3月 - 2026年3月](https://sevic.me/2026-03-20-reading) (2 days ago)
 - [在DuckDuckGo和Google搜索结果中屏蔽CSDN](https://sevic.me/2025-04-08) (11 months ago)
 - [我在看什么 · 2024年3月 - 2025年3月](https://sevic.me/2025-03-22-reading) (1 year ago)
 - [Git使用随记](https://sevic.me/2024-10-28-git) (1 year ago)
-- [为Obsidian添加仿真荧光笔高亮样式](https://sevic.me/2024-10-14-obsidian-highlight) (1 year ago)
 </details>
 
 
