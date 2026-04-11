@@ -25,7 +25,7 @@ Embracing new freedom to create
 #### 👷 What I'm currently working on
 
 - [cosmoart/Freesets](https://github.com/cosmoart/Freesets) - 📋Collection of free resources like icons, images, illustrations, components, libraries and more! (1 month ago)
-- [sevi418/qx](https://github.com/sevi418/qx) -  (8 months ago)
+- [sevi418/qx](https://github.com/sevi418/qx) -  (9 months ago)
 - [sevi418/Hugo-theme-bear](https://github.com/sevi418/Hugo-theme-bear) -  (1 year ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (1 year ago)
   <br>
@@ -51,7 +51,7 @@ Embracing new freedom to create
   <br/>
 
 
-- [浅尝即止的设计学习](https://sevic.me/2026-03-21) (2 weeks ago)
+- [浅尝即止的设计学习](https://sevic.me/2026-03-21) (3 weeks ago)
 - [我在看什么 · 2025年3月 - 2026年3月](https://sevic.me/2026-03-20-reading) (3 weeks ago)
 - [在DuckDuckGo和Google搜索结果中屏蔽CSDN](https://sevic.me/2025-04-08) (1 year ago)
 - [我在看什么 · 2024年3月 - 2025年3月](https://sevic.me/2025-03-22-reading) (1 year ago)
