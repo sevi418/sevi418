@@ -24,7 +24,7 @@ Embracing new freedom to create
   
 #### 👷 What I'm currently working on
 
-- [cosmoart/Freesets](https://github.com/cosmoart/Freesets) - 📋Collection of free resources like icons, images, illustrations, components, libraries and more! (1 month ago)
+- [cosmoart/Freesets](https://github.com/cosmoart/Freesets) - 📋Collection of free resources like icons, images, illustrations, components, libraries and more! (2 months ago)
 - [sevi418/qx](https://github.com/sevi418/qx) -  (9 months ago)
   <br>
   
