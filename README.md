@@ -24,7 +24,7 @@ Embracing new freedom to create
   
 #### 👷 What I'm currently working on
 
-- [sevi418/my-query](https://github.com/sevi418/my-query) -  (2 days ago)
+- [sevi418/my-query](https://github.com/sevi418/my-query) -  (3 days ago)
 - [sevi418/calendar-heatmap](https://github.com/sevi418/calendar-heatmap) -  (1 week ago)
 - [cosmoart/Freesets](https://github.com/cosmoart/Freesets) - 📋Collection of free resources like icons, images, illustrations, components, libraries and more! (4 months ago)
 - [sevi418/qx](https://github.com/sevi418/qx) -  (11 months ago)
