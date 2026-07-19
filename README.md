@@ -25,7 +25,7 @@ Embracing new freedom to create
 #### 👷 What I'm currently working on
 
 - [sevi418/resume-cli](https://github.com/sevi418/resume-cli) - AI 简历解析命令行工具。读取 PDF 简历，调用大模型提取结构化信息，并根据岗位描述（JD）进行匹配评分。 (1 week ago)
-- [sevi418/my-query](https://github.com/sevi418/my-query) -  (2 weeks ago)
+- [sevi418/my-query](https://github.com/sevi418/my-query) -  (3 weeks ago)
 - [sevi418/calendar-heatmap](https://github.com/sevi418/calendar-heatmap) -  (3 weeks ago)
 - [cosmoart/Freesets](https://github.com/cosmoart/Freesets) - 📋Collection of free resources like icons, images, illustrations, components, libraries and more! (5 months ago)
 - [sevi418/qx](https://github.com/sevi418/qx) -  (1 year ago)
@@ -53,7 +53,7 @@ Embracing new freedom to create
   <br/>
 
 
-- [浅尝即止的设计学习](https://sevic.me/2026-03-21) (3 months ago)
+- [浅尝即止的设计学习](https://sevic.me/2026-03-21) (4 months ago)
 - [我在看什么 · 2025年3月 - 2026年3月](https://sevic.me/2026-03-20-reading) (4 months ago)
 - [在DuckDuckGo和Google搜索结果中屏蔽CSDN](https://sevic.me/2025-04-08) (1 year ago)
 - [我在看什么 · 2024年3月 - 2025年3月](https://sevic.me/2025-03-22-reading) (1 year ago)
