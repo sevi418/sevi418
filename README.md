@@ -24,8 +24,8 @@ Embracing new freedom to create
   
 #### 👷 What I'm currently working on
 
-- [sevi418/resume-cli](https://github.com/sevi418/resume-cli) - AI 简历解析命令行工具。读取 PDF 简历，调用大模型提取结构化信息，并根据岗位描述（JD）进行匹配评分。 (2 weeks ago)
-- [sevi418/my-query](https://github.com/sevi418/my-query) -  (4 weeks ago)
+- [sevi418/resume-cli](https://github.com/sevi418/resume-cli) - AI 简历解析命令行工具。读取 PDF 简历，调用大模型提取结构化信息，并根据岗位描述（JD）进行匹配评分。 (3 weeks ago)
+- [sevi418/my-query](https://github.com/sevi418/my-query) -  (1 month ago)
 - [sevi418/calendar-heatmap](https://github.com/sevi418/calendar-heatmap) -  (1 month ago)
 - [cosmoart/Freesets](https://github.com/cosmoart/Freesets) - 📋Collection of free resources like icons, images, illustrations, components, libraries and more! (5 months ago)
   <br>
@@ -42,7 +42,7 @@ Embracing new freedom to create
 #### 🔭 Latest releases I've contributed to
 
 
-- [sevi418/resume-cli](https://github.com/sevi418/resume-cli) ([v0.1.0](https://github.com/sevi418/resume-cli/releases/tag/v0.1.0), 2 weeks ago) - AI 简历解析命令行工具。读取 PDF 简历，调用大模型提取结构化信息，并根据岗位描述（JD）进行匹配评分。
+- [sevi418/resume-cli](https://github.com/sevi418/resume-cli) ([v0.1.0](https://github.com/sevi418/resume-cli/releases/tag/v0.1.0), 3 weeks ago) - AI 简历解析命令行工具。读取 PDF 简历，调用大模型提取结构化信息，并根据岗位描述（JD）进行匹配评分。
 
 </details>
 
