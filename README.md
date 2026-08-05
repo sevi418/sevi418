@@ -24,7 +24,6 @@ Embracing new freedom to create
   
 #### 👷 What I'm currently working on
 
-- [sevi418/resume-cli](https://github.com/sevi418/resume-cli) - AI 简历解析命令行工具。读取 PDF 简历，调用大模型提取结构化信息，并根据岗位描述（JD）进行匹配评分。 (4 weeks ago)
 - [sevi418/my-query](https://github.com/sevi418/my-query) -  (1 month ago)
 - [sevi418/calendar-heatmap](https://github.com/sevi418/calendar-heatmap) -  (1 month ago)
 - [cosmoart/Freesets](https://github.com/cosmoart/Freesets) - 📋Collection of free resources like icons, images, illustrations, components, libraries and more! (5 months ago)
@@ -32,17 +31,16 @@ Embracing new freedom to create
   
 #### 🌱 My latest projects
 
-- [sevi418/resume-cli](https://github.com/sevi418/resume-cli) - AI 简历解析命令行工具。读取 PDF 简历，调用大模型提取结构化信息，并根据岗位描述（JD）进行匹配评分。
 - [sevi418/qx](https://github.com/sevi418/qx) - 
 - [sevi418/calendar-heatmap](https://github.com/sevi418/calendar-heatmap) - 
 - [sevi418/fish-french-greeting](https://github.com/sevi418/fish-french-greeting) - Greets user with French word of the day from Transparent Language API and random kaomoji.
 - [sevi418/meow-one-page-resume](https://github.com/sevi418/meow-one-page-resume) - A cat-powered one-page resume template 🐱
+- [sevi418/miniflux-js](https://github.com/sevi418/miniflux-js) - Unofficial JavaScript SDK for Miniflux.
   
 
 #### 🔭 Latest releases I've contributed to
 
 
-- [sevi418/resume-cli](https://github.com/sevi418/resume-cli) ([v0.1.0](https://github.com/sevi418/resume-cli/releases/tag/v0.1.0), 4 weeks ago) - AI 简历解析命令行工具。读取 PDF 简历，调用大模型提取结构化信息，并根据岗位描述（JD）进行匹配评分。
 
 </details>
 
