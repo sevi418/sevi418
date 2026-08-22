@@ -24,9 +24,9 @@ Embracing new freedom to create
   
 #### 👷 What I'm currently working on
 
-- [sevi418/fish-french-greeting](https://github.com/sevi418/fish-french-greeting) - Greets user with French word of the day from Transparent Language API and random kaomoji. (3 days ago)
+- [sevi418/fish-french-greeting](https://github.com/sevi418/fish-french-greeting) - Greets user with French word of the day from Transparent Language API and random kaomoji. (4 days ago)
 - [sevi418/my-query](https://github.com/sevi418/my-query) -  (1 month ago)
-- [sevi418/calendar-heatmap](https://github.com/sevi418/calendar-heatmap) -  (1 month ago)
+- [sevi418/calendar-heatmap](https://github.com/sevi418/calendar-heatmap) -  (2 months ago)
 - [cosmoart/Freesets](https://github.com/cosmoart/Freesets) - 📋Collection of free resources like icons, images, illustrations, components, libraries and more! (6 months ago)
   <br>
   
