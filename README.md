@@ -51,11 +51,11 @@ Embracing new freedom to create
   <br/>
 
 
+- [PTE Core CLB8 个人备考经验总结](https://sevic.me/2026-10-24-pte) (1 day ago)
 - [浅尝即止的设计学习](https://sevic.me/2026-03-21) (7 months ago)
 - [我在看什么 · 2025年3月 - 2026年3月](https://sevic.me/2026-03-20-reading) (7 months ago)
 - [在DuckDuckGo和Google搜索结果中屏蔽CSDN](https://sevic.me/2025-04-08) (2 years ago)
 - [我在看什么 · 2024年3月 - 2025年3月](https://sevic.me/2025-03-22-reading) (2 years ago)
-- [Git使用随记](https://sevic.me/2024-10-28-git) (2 years ago)
 </details>
 
 
