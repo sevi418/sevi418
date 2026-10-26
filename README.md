@@ -25,7 +25,7 @@ Embracing new freedom to create
 #### 👷 What I'm currently working on
 
 - [sevi418/fish-french-greeting](https://github.com/sevi418/fish-french-greeting) - Greets user with French word of the day from Transparent Language API and random kaomoji. (2 months ago)
-- [sevi418/my-query](https://github.com/sevi418/my-query) -  (3 months ago)
+- [sevi418/my-query](https://github.com/sevi418/my-query) -  (4 months ago)
 - [sevi418/calendar-heatmap](https://github.com/sevi418/calendar-heatmap) -  (4 months ago)
 - [cosmoart/Freesets](https://github.com/cosmoart/Freesets) - 📋Collection of free resources like icons, images, illustrations, components, libraries and more! (8 months ago)
   <br>
@@ -51,7 +51,7 @@ Embracing new freedom to create
   <br/>
 
 
-- [PTE Core CLB8 个人备考经验总结](https://sevic.me/2026-10-24-pte) (1 day ago)
+- [PTE Core CLB8 个人备考经验总结](https://sevic.me/2026-10-24-pte) (2 days ago)
 - [浅尝即止的设计学习](https://sevic.me/2026-03-21) (7 months ago)
 - [我在看什么 · 2025年3月 - 2026年3月](https://sevic.me/2026-03-20-reading) (7 months ago)
 - [在DuckDuckGo和Google搜索结果中屏蔽CSDN](https://sevic.me/2025-04-08) (2 years ago)
