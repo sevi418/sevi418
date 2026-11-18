@@ -24,7 +24,7 @@ Embracing new freedom to create
   
 #### 👷 What I'm currently working on
 
-- [sevi418/miniflux-js](https://github.com/sevi418/miniflux-js) - Unofficial JavaScript SDK for Miniflux. (3 days ago)
+- [sevi418/miniflux-js](https://github.com/sevi418/miniflux-js) - Unofficial JavaScript SDK for Miniflux. (4 days ago)
 - [sevi418/fish-french-greeting](https://github.com/sevi418/fish-french-greeting) - Greets user with French word of the day from Transparent Language API and random kaomoji. (3 months ago)
 - [sevi418/my-query](https://github.com/sevi418/my-query) -  (4 months ago)
 - [sevi418/calendar-heatmap](https://github.com/sevi418/calendar-heatmap) -  (4 months ago)
@@ -43,7 +43,7 @@ Embracing new freedom to create
 #### 🔭 Latest releases I've contributed to
 
 
-- [sevi418/miniflux-js](https://github.com/sevi418/miniflux-js) ([v0.1.1](https://github.com/sevi418/miniflux-js/releases/tag/v0.1.1), 3 days ago) - Unofficial JavaScript SDK for Miniflux.
+- [sevi418/miniflux-js](https://github.com/sevi418/miniflux-js) ([v0.1.1](https://github.com/sevi418/miniflux-js/releases/tag/v0.1.1), 4 days ago) - Unofficial JavaScript SDK for Miniflux.
 
 </details>
 
