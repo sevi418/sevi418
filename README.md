@@ -26,7 +26,7 @@ Embracing new freedom to create
 
 - [sevi418/miniflux-js](https://github.com/sevi418/miniflux-js) - Unofficial JavaScript SDK for Miniflux. (1 week ago)
 - [sevi418/fish-french-greeting](https://github.com/sevi418/fish-french-greeting) - Greets user with French word of the day from Transparent Language API and random kaomoji. (3 months ago)
-- [sevi418/my-query](https://github.com/sevi418/my-query) -  (4 months ago)
+- [sevi418/my-query](https://github.com/sevi418/my-query) -  (5 months ago)
 - [sevi418/calendar-heatmap](https://github.com/sevi418/calendar-heatmap) -  (5 months ago)
 - [cosmoart/Freesets](https://github.com/cosmoart/Freesets) - 📋Collection of free resources like icons, images, illustrations, components, libraries and more! (9 months ago)
   <br>
